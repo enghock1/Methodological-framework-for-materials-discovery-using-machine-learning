@@ -1,4 +1,4 @@
-##Code used in [Methodological Framework for Materials Discovery using Machine Learning](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.043802) paper.
+## Code used in [Methodological Framework for Materials Discovery using Machine Learning](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.043802) paper.
 
 The preprocessed data for the first case study (vdW vs nvdW modeling) is located in data\vdW_nvdW\preprocessed_materials_project_data.csv.
 Similarly, the preprocessed data for the second case study (wide bandgap vs non-wide bandgap) is located in data\UV_nUV\preprocessed_vdW_data.csv.
